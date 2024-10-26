@@ -1,0 +1,26 @@
+.env
+# Local .terraform directories
+.terraform/
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.terraform/
+**.tfstate*
+.prettierrc
+
+# Crash log files
+crash.log*
+
+# Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Ignore override files as they are not version-controlled
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# SSH Key
+*.pem
