@@ -1,0 +1,4 @@
+
+bucket = "terraform-course-backend-01"
+key    = "04/prod/state.tfstate"
+region = "us-east-1"
